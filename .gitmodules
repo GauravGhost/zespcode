@@ -1,0 +1,12 @@
+[submodule "Zespcode-problem-service"]
+	path = Zespcode-problem-service
+	url = https://github.com/GauravGhost/Zespcode-problem-service.git
+[submodule "Zespcode-Evaluator-Service"]
+	path = Zespcode-Evaluator-Service
+	url = https://github.com/GauravGhost/Zespcode-Evaluator-Service.git
+[submodule "Zespcode-Submission-Service"]
+	path = Zespcode-Submission-Service
+	url = https://github.com/GauravGhost/Zespcode-Submission-Service.git
+[submodule "Zespcode-Socket-Service"]
+	path = Zespcode-Socket-Service
+	url = https://github.com/GauravGhost/Zespcode-Socket-Service.git
